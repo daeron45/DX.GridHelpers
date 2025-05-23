@@ -85,4 +85,4 @@ MIT License
 ## 🌐 Author
 
 **Rahim AYDIN**  
-[GitHub](https://github.com/daeron45) · [NuGet](https://www.nuget.org/packages/DX.GridHelpers)
+[GitHub](https://github.com/daeron45/DX.GridHelpers) · [NuGet](https://www.nuget.org/packages/DX.GridHelpers)
